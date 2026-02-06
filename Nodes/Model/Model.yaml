@@ -1,0 +1,7 @@
+Name: Model
+Type: ModelCategoryFolder
+Children:
+- Name: Result
+  Type: BaseDataVariableType
+  DataType: String
+  Value: "your result will show up here..."
