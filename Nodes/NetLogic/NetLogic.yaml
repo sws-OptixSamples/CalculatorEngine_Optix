@@ -1,7 +1,7 @@
 Name: NetLogic
 Type: NetLogicCategoryFolder
 Children:
-- Name: RuntimeNetLogic1
+- Name: CalculatorNetLogic
   Id: g=0c14cbf30ba5b51574166eb6da3e2341
   Type: NetLogic
   Children:

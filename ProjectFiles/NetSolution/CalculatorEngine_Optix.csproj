@@ -15,8 +15,8 @@
   <PropertyGroup>
     <ResolveAssemblyWarnOrErrorOnTargetArchitectureMismatch>None</ResolveAssemblyWarnOrErrorOnTargetArchitectureMismatch>
   </PropertyGroup>
+  <Import Project="CalculatorEngine_Optix.references" />
   <ItemGroup>
-    <PackageReference Include="CalculatorEngine" Version="0.3.5"/>
+    <PackageReference Include="CalculatorEngine" Version="0.3.7" />
   </ItemGroup>
-  <Import Project="CalculatorEngine_Optix.references"/>
 </Project>

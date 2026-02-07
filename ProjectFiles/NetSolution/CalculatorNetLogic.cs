@@ -12,10 +12,10 @@ using FTOptix.NetLogic;
 using System.IO;
 using System.Runtime.InteropServices;
 using System.Text.RegularExpressions;
-using CalculatorEngine.Managed;
+using CalculatorEngine;
 #endregion
 
-public class RuntimeNetLogic1 : BaseNetLogic
+public class CalculatorNetLogic : BaseNetLogic
 {
     public override void Start()
     {
